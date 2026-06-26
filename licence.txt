@@ -1,0 +1,6 @@
+# SazzySip EA Licence File
+# Format: AccountNumber,YYYY-MM-DD
+# Lines starting with # are ignored
+
+56233685,2026-07-26
+87654321,2027-06-30
