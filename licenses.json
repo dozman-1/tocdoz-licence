@@ -1,12 +1,14 @@
-{
-  "key": "3445656776678",
-  "accounts": [55031535],
-  "expiry": "2026-08-07",
-  "status": "active"
-}
-{
-  "key": "3445656776678",
-  "accounts": [56233685],
-  "expiry": "2026-08-13",
-  "status": "active"
-}
+[
+  {
+    "key": "3445656776678",
+    "accounts": [55031535],
+    "expiry": "2026-08-07",
+    "status": "active"
+  },
+  {
+    "key": "3445656776678",
+    "accounts": [56233685],
+    "expiry": "2026-08-13",
+    "status": "active"
+  }
+]
